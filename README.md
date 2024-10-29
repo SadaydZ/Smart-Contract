@@ -1,6 +1,6 @@
 # Smart-Contract
 
-## Repositorio de Smart-Contract Aplicado en Negocios Reales
+## Repo Smart Contract ERC20 & ERC721
 
 - [Smart Contract ERC20](https://github.com/SadaydZ/Smart-Contract/tree/main/Anclap)
 
